@@ -1,0 +1,42 @@
+The term black hole is of very recent origin. It was coined in 1969 by the American scientist John Wheeler as a graphic
+description of an idea that goes back at least two hundred years, to a time when there were two theories about light:
+one, which Newton favored, was that it was composed of particles; the other was that it was made of waves. We now
+know that really both theories are correct. By the wave/particle duality of quantum mechanics, light can be regarded as
+both a wave and a particle. Under the theory that light is made up of waves, it was not clear how it would respond to
+gravity. But if light is composed of particles, one might expect them to be affected by gravity in the same way that
+cannonballs, rockets, and planets are. At first people thought that particles of light traveled infinitely fast, so gravity
+would not have been able to slow them down, but the discovery by Roemer that light travels at a finite speed meant that
+gravity might have an important effect.
+On this assumption, a Cambridge don, John Michell, wrote a paper in 1783 in the Philosophical Transactions of the
+Royal Society of London in which he pointed out that a star that was sufficiently massive and compact would have such
+a strong gravitational field that light could not escape: any light emitted from the surface of the star would be dragged
+back by the star’s gravitational attraction before it could get very far. Michell suggested that there might be a large
+number of stars like this. Although we would not be able to see them because the light from them would not reach us,
+we would still feel their gravitational attraction. Such objects are what we now call black holes, because that is what
+they are: black voids in space. A similar suggestion was made a few years later by the French scientist the Marquis de
+Laplace, apparently independently of Michell. Interestingly enough, Laplace included it in only the first and second
+editions of his book The System of the World, and left it out of later editions; perhaps he decided that it was a crazy
+idea. (Also, the particle theory of light went out of favor during the nineteenth century; it seemed that everything could
+be explained by the wave theory, and according to the wave theory, it was not clear that light would be affected by
+gravity at all.)
+In fact, it is not really consistent to treat light like cannonballs in Newton’s theory of gravity because the speed of light is
+fixed. (A cannonball fired upward from the earth will be slowed down by gravity and will eventually stop and fall back; a
+photon, however, must continue upward at a constant speed. How then can Newtonian grav-ity affect light?) A
+consistent theory of how gravity affects light did not come along until Einstein proposed general relativity in 1915. And
+even then it was a long time before the implications of the theory for massive stars were understood.
+To understand how a black hole might be formed, we first need an understanding of the life cycle of a star. A star is
+formed when a large amount of gas (mostly hydrogen) starts to collapse in on itself due to its gravitational attraction. As
+it contracts, the atoms of the gas collide with each other more and more frequently and at greater and greater speeds –
+the gas heats up. Eventually, the gas will be so hot that when the hydrogen atoms collide they no longer bounce off
+each other, but instead coalesce to form helium. The heat released in this reaction, which is like a controlled hydrogen
+bomb explosion, is what makes the star shine. This additional heat also increases the pressure of the gas until it is
+sufficient to balance the gravitational attraction, and the gas stops contracting. It is a bit like a balloon – there is a
+balance between the pressure of the air inside, which is trying to make the balloon expand, and the tension in the
+rubber, which is trying to make the balloon smaller. Stars will remain stable like this for a long time, with heat from the
+nuclear reactions balancing the gravitational attraction. Eventually, however, the star will run out of its hydrogen and
+other nuclear fuels. Paradoxically, the more fuel a star starts off with, the sooner it runs out. This is because the more
+massive the star is, the hotter it needs to be to balance its gravitational attraction. And the hotter it is, the faster it will
+use up its fuel. Our sun has probably got enough fuel for another five thousand million years or so, but more massive
+stars can use up their fuel in as little as one hundred million years, much less than the age of the universe. When a star
+runs out of fuel, it starts to cool off and so to contract. What might happen to it then was first understood only at the end
+of the 1920s.
